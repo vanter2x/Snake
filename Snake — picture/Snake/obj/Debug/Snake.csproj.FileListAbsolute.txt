@@ -1,0 +1,17 @@
+c:\visual Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\visual Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\visual Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\visual Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\visual Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+c:\visual Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\visual Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\visual Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\visual Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\visual Projects\Snake — picture\Snake\bin\Debug\Snake.exe.config
+C:\visual Projects\Snake — picture\Snake\obj\Debug\Snake.exe
+C:\visual Projects\Snake — picture\Snake\obj\Debug\Snake.pdb
+C:\visual Projects\Snake — picture\Snake\obj\Debug\Snake.Form1.resources
+C:\visual Projects\Snake — picture\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\visual Projects\Snake — picture\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\visual Projects\Snake — picture\Snake\bin\Debug\Snake.exe
+C:\visual Projects\Snake — picture\Snake\bin\Debug\Snake.pdb
